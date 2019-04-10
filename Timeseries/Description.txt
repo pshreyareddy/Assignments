@@ -1,0 +1,12 @@
+Learning outcomes:
+1. Understanding the basic blocks of Time series models
+2. Preprocessing of the data to apply time series models
+3. Handling the missing values in Time series
+4. Split the data into Train and Test
+5. Building the following time series models
+a. Simple moving Average
+b. Weighted Moving Average
+c. Exponential smoothing
+d. ARIMA models
+6. Model diagnostics and Model evaluations
+Let us build time series models in using e-commerce data and the goal is to predict the price of a certain product for future time period using time series algorithms and evaluating each of the algorithms.
